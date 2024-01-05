@@ -52,7 +52,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   void _createSplash() {
     Future.delayed(
-      const Duration(seconds: 20),
+      const Duration(seconds: 3),
       () {
         log("I am in splash duration");
 
