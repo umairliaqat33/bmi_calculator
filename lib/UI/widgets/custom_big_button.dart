@@ -32,7 +32,7 @@ class CustomBigButton extends StatelessWidget {
         ),
         child: Center(
           child: Text(
-            'RE-CALCULATE',
+            btnText,
             style: kLargeButtonTextStyle,
           ),
         ),
